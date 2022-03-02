@@ -14,4 +14,4 @@ python3 excel.py "pdf_paths" "excel name (wihout extension)"
 ```
 
 ## License
-[MIT](https://github.com/danhab05/pdf2excel/blob/master/LICENSE)
+[MIT](https://raw.githubusercontent.com/danhab05/pdf2excel/master/LICENSE)
