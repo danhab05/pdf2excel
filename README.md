@@ -15,3 +15,4 @@ python3 excel.py "pdf_paths" "excel name (wihout extension)"
 
 ## License
 [MIT](https://raw.githubusercontent.com/danhab05/pdf2excel/master/LICENSE){:target="_blank"}
+ <a href="https://raw.githubusercontent.com/danhab05/pdf2excel/master/LICENSE" target="_blank">MIT</a> 
