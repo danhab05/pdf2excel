@@ -14,4 +14,4 @@ python3 excel.py "pdf_paths" "excel name (wihout extension)"
 ```
 
 ## License
-<a href="https://raw.githubusercontent.com/danhab05/pdf2excel/master/LICENSE" target="_blank">MIT</a> 
+<a href="https://raw.githubusercontent.com/danhab05/pdf2excel/master/LICENSE" target="_blank" rel="noopener noreferrer">freeCodeCamp</a>.</p>>MIT</a> 
